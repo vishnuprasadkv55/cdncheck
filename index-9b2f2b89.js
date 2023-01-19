@@ -1,0 +1,1 @@
+import{a as o,r as s,j as e}from"./index-7852c9e4.js";const a=t=>localStorage.getItem(t),n=()=>{const t=a("path")??o.product;return s.useEffect(()=>{window.opener.location.href=t,self.close()},[]),e.jsx(e.Fragment,{})};export{n as default};
